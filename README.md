@@ -1,7 +1,7 @@
 # Scrollfucker
 Inspired by fuck overlays, tries to recover the scrollbar on sites where the overlay has fucked you over.
 
-Google doesn't allow extensions or some shit outside of chrome OS anymore so if you want this you can download the release and lod it in chrome via the extensions tab.
+Google doesn't allow extensions or some shit outside of chrome OS anymore so if you want this you can download the release and load it in chrome via the extensions tab.
 
 Menu->Settings->Extensions
 
